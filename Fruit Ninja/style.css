@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#game {
+    display: inline-block;
+    position: relative;
+}
+
+#gameCanvas {
+    border: 1px solid #000;
+    background-image: linear-gradient(135deg, #f06, #ffba08);
+}
